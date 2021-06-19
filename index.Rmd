@@ -9,22 +9,28 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* I am currently studying Cloud-Based Data Science.
+* I have studied Introduction to Biology and Molecular Biology DNA Replication and Repair, as well as some Statistics.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Interests
 
-```{r cars}
-summary(cars)
-```
+* I am interested in data science for human genomics.
+* I love reading scientific papers.
 
-## Including Plots
+## Projects
 
-You can also embed plots, for example:
+* I've participated in the Hackathon MIT Covid-19 Challenge    
+* Actually working on building this website in R
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Profiles
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [LinkedIn] (https://www.linkedin.com/in/svetlana-tamitegama-67a28614/)
+* [GitHub] (https://github.com/SvetTam)
+
+## Contact
+
+* [info@tamitegama.com] (mailto:info@tamitegama.com)
+
+
