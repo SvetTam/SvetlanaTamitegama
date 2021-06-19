@@ -1,17 +1,15 @@
 ---
-title: "SvetlanaTamitegama'™s website"
+title: "SvetlanaTamitegama's website"
+image: img/Svetlana.png {width=100px}
 author: "Svetlana Tamitegama"
 date: "6/19/2021"
 output: html_document
 theme: spacelab
 toc: true
 toc_depth: 3
-toc_float: true
+toc_float: true 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## About
 
@@ -36,5 +34,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Contact
 
 * [info@tamitegama.com] (mailto:info@tamitegama.com)
+
 
 
