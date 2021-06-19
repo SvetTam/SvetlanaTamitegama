@@ -3,7 +3,10 @@ title: "SvetlanaTamitegama'™s website"
 author: "Svetlana Tamitegama"
 date: "6/19/2021"
 output: html_document
-theme: academic
+theme: spacelab
+toc: true
+toc_depth: 3
+toc_float: true
 ---
 
 ```{r setup, include=FALSE}
