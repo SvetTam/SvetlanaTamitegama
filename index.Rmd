@@ -1,8 +1,9 @@
 ---
-title: "SvetlanaTamitegama's website"
+title: "SvetlanaTamitegama'™s website"
 author: "Svetlana Tamitegama"
 date: "6/19/2021"
 output: html_document
+theme: academic
 ---
 
 ```{r setup, include=FALSE}
@@ -12,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## About
 
 * I am currently studying Cloud-Based Data Science.
-* I have studied Introduction to Biology and Molecular Biology DNA Replication and Repair, as well as some Statistics.
+* I have studied Introduction to Biology and Molecular Biology DNA Replication & Repair, as well as some Statistics.
 
 ## Interests
 
